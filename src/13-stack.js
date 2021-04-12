@@ -12,7 +12,7 @@
  */
 class Stack {
   push(/* element */) {
-    throw new Error('Not implemented');
+
   }
 
   pop() {
